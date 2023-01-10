@@ -1,0 +1,14 @@
+{
+  "name": "kaza-loger",
+  "version": "2.0.4",
+  "description": "npm package demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kazawan",
+  "license": "ISC",
+  "dependencies": {
+    "colors-console": "^1.0.3"
+  }
+}
